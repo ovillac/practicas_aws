@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Bienvenido a VueFM App"/>
+    <HelloWorld msg="Bienvenido a VueFMS App"/>
   </div>
 </template>
 
@@ -22,7 +22,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color:#ffffff;
+  color: #2c3e50;
   margin-top: 60px;
 }
 </style>
